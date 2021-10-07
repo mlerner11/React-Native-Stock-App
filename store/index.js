@@ -5,7 +5,7 @@ import { createStore, applyMiddleware } from 'redux'
 import { persistStore, persistReducer } from 'redux-persist'
 
 import reducers from './reducers'
-import { API_KEY } from 'react-native-dotenv'
+import { API_KEY } from '@env'
 
 const persistConfig = {
   key: 'root',
