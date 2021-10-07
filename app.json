@@ -4,7 +4,7 @@
     "description": "Ever want to check the stock market, but you just couldn't figure out how? Well look no further, this app has got you covered!",
     "slug": "markets-react",
     "privacy": "public",
-    "sdkVersion": "34.0.0",
+    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android"
